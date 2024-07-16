@@ -1,0 +1,35 @@
+martonady@marton_mbp Google_photos_sanitizer % ~/myPython/bin/python heic_with_no_date.py
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Douro house/PHOTO-2024-01-06-12-09-38(1).heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Douro house/PHOTO-2024-01-06-12-09-38.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Douro house/PHOTO-2024-03-19-12-53-27(1).heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Douro house/PHOTO-2024-03-19-12-53-27(2).heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Douro house/PHOTO-2024-03-19-12-53-27.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Douro house/RenderedImage(2).heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2021/77F573D9-EEFA-4CAF-9DD5-90DD0AD0F38D.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2021/A20BCF1A-3730-42F6-B08A-ECD8FF38B54D.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2021/C5F48D61-C229-4DB1-BD66-5895F169B4AF.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2021/IMG_2277.HEIC
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2021/IMG_2279.HEIC
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2021/IMG_2292.HEIC
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2021/IMG_2307(1).HEIC
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2021/IMG_2308(1).HEIC
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2021/IMG_2134.HEIC
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2022/IMG_0603.HEIC
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2023/PHOTO-2023-04-11-17-12-23(1).heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2023/PHOTO-2023-04-11-17-12-23.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2023/PHOTO-2023-04-12-16-27-56.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2023/PHOTO-2023-04-12-17-30-49.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2023/PHOTO-2023-04-12-17-41-21(1).heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2023/PHOTO-2023-04-12-17-41-21.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2023/PHOTO-2023-04-13-09-00-27.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2023/PHOTO-2023-12-19-16-38-10.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2023/PHOTO-2023-12-19-16-38-22.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2023/PHOTO-2023-12-19-16-38-34.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2023/PHOTO-2023-12-19-16-38-44.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2024/IMG_7913.HEIC
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2024/PHOTO-2024-01-06-12-09-38(1).heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2024/PHOTO-2024-01-06-12-09-38.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2024/PHOTO-2024-03-19-12-53-27(1).heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2024/PHOTO-2024-03-19-12-53-27(2).heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2024/PHOTO-2024-03-19-12-53-27.heic
+No EXIF 'taken' date found for /Volumes/Ady_2tb_red/takeout_extract2/Takeout/Google Photos/Photos from 2024/RenderedImage.heic
