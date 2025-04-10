@@ -42,5 +42,5 @@ def replace_heic_with_jpg(file_path):
     return parent / new_name
 
 # Usage
-takeout_path = "/Volumes/Ady_2tb_red/takeout_extract3/Takeout/Google Photos"
+takeout_path = "/Volumes/Ady_1tb/pcloud/Photos/Marci Albumok"
 rename_heic_to_jpeg(takeout_path)
